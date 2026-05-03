@@ -43,7 +43,7 @@ Tailwind CSS
 
 📂 Project Setup (Step-by-Step)
 1️⃣ Clone Repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone  https://github.com/sazid49/landing-Page-E-commerce.git
 cd your-repo-name
 
 2️⃣ Install Dependencies
